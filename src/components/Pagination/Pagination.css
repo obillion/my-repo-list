@@ -1,0 +1,20 @@
+.pagination, .nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+    
+.link {
+    text-decoration: none;
+}
+
+.page {
+    list-style-type: none;
+    font-size: 1rem;
+    padding: 20px;
+    margin: 1px;
+    width: 15px;
+    border-radius: 5px;
+    border: 0.1px solid grey;
+}

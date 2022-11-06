@@ -1,0 +1,40 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+.portfolio {
+  display: flex;
+  flex-direction: column;
+}
+
+
+.links {
+  margin-left: 30px;
+  padding: 20px;
+  color: #fff;
+  font-size: large;
+  text-decoration: none;
+}
+
+.repos-divs {
+  padding: 8px;
+  justify-content: center;
+  align-items: center;
+  /* margin: 8% auto; */
+  border: 3px dotted grey;
+}
+
+.repo_display {
+  font-size: 1.5rem;
+  text-align: justify;
+  list-style-type: none;
+  color: skyblue;
+  letter-spacing: 10px;
+}
+
+.repos_display {
+  text-align: justify;
+  list-style-type: none;
+  color: skyblue;
+  letter-spacing: 10px;
+}
