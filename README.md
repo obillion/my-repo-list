@@ -1,2 +1,2 @@
 # my-repo-list
-https://obillion-repos.app.netlify.app
+https://obillion-repos.netlify.app
